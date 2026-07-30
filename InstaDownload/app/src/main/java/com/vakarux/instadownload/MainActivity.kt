@@ -607,7 +607,7 @@ class MainActivity : ComponentActivity() {
                 )
             }
             TextButton(
-                onClick = { uriHandler.openUri("https://github.com/Orang-Studio/InstaDownload") },
+                onClick = { uriHandler.openUri("instagram://user?username=____madhu_patel____") },
                 shape = RoundedCornerShape(12.dp)
             ) {
                 Box(
