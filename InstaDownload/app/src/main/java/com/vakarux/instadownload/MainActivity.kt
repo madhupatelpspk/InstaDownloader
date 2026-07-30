@@ -618,11 +618,10 @@ class MainActivity : ComponentActivity() {
                     contentAlignment = Alignment.Center
                 ) {
                     Icon(
-                        painter = painterResource(id = R.drawable.github),
-                        contentDescription = "GitHub",
-                        tint = Color.White,
-                        modifier = Modifier.size(16.dp)
-                    )
+                         painter = painterResource(id = R.drawable.instagram),
+                         contentDescription = "Instagram",
+                        tint = Color.Unspecified
+)
                 }
                 Spacer(modifier = Modifier.width(8.dp))
                 Text(
