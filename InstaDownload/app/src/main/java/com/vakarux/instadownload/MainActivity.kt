@@ -626,7 +626,7 @@ class MainActivity : ComponentActivity() {
                 }
                 Spacer(modifier = Modifier.width(8.dp))
                 Text(
-                    "Made by Vakarux",
+                    "Made by Madhu Patel",
                     style = MaterialTheme.typography.labelLarge.copy(
                         color = Color.White.copy(alpha = 0.85f)
                     )
