@@ -138,4 +138,6 @@ For bugs or feature requests, use [GitHub Issues](https://github.com/Orang-Studi
 
 ## License
 
+# all rights to vakarux, original creator.
+
 InstaDownload is available under the [MIT License](LICENSE)
